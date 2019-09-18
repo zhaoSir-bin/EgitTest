@@ -10,5 +10,7 @@ public class EgitTest {
 			System.out.println("eee");
 			System.out.println("fff");
 			System.out.println("gggg"
-					+ "");}
+					+ "");
+			System.out.println("ffff");
+		}
 }
